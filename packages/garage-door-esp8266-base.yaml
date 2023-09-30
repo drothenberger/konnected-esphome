@@ -50,10 +50,3 @@ substitutions:
   status_led: D4
   sda: GPIO4
   scl: GPIO5
-
-
-packages:
-  remote_package:
-    url: http://github.com/konnected-io/konnected-esphome
-    ref: master
-    file: packages/core-esp8266.yaml

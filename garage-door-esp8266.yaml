@@ -7,4 +7,4 @@
 # compatibility.
 
 packages:
-  gdov1_s: github://konnected-io/konnected-esphome/garage-door-GDOv1-S.yaml
+  gdov1_s: github://drothenberger/konnected-esphome/garage-door-GDOv1-S.yaml@white/deploy

@@ -20,6 +20,7 @@ number:
     step: 0.01
     max_value: 2.0
     min_value: 0.1
+    initial_value: 0.35
     optimistic: true
     restore_value: true
 

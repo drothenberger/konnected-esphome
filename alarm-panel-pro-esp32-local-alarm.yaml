@@ -335,8 +335,8 @@ number:
 packages:
 
   remote_package:
-    url: http://github.com/konnected-io/konnected-esphome
-    ref: master
+    url: https://github.com/drothenberger/konnected-esphome
+    ref: black/deploy
     refresh: 5min
     files:
 
@@ -384,7 +384,7 @@ packages:
 
 
 dashboard_import:
-  package_import_url: github://konnected-io/konnected-esphome/alarm-panel-pro-esp32-local-alarm.yaml@master
+  package_import_url: github://drothenberger/konnected-esphome/alarm-panel-pro-esp32-local-alarm.yaml@black/deploy
   import_full_config: false
 
 ####

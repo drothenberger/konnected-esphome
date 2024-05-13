@@ -9,7 +9,7 @@ Import the component into your ESPHome config:
 
 ```
 external_components:
-  - source: github://konnected-io/konnected-esphome@master
+  - source: github://drothenberger/konnected-esphome@black/deploy
     components: [ secplus_gdo ]
 ```
 

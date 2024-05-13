@@ -88,8 +88,8 @@ esphome:
   name_add_mac_suffix: false
 packages:
   remote_package:
-    url: http://github.com/konnected-io/konnected-esphome
-    ref: master
+    url: https://github.com/drothenberger/konnected-esphome
+    ref: black/deploy
     refresh: 5min
     files:
     - packages/core-esp32.yaml

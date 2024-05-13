@@ -48,8 +48,8 @@ substitutions:
 packages:
 
   remote_package:
-    url: https://github.com/konnected-io/konnected-esphome
-    ref: master
+    url: https://github.com/drothenberger/konnected-esphome
+    ref: black/deploy
     refresh: 5min
     files:
 
